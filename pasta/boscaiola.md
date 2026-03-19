@@ -12,4 +12,8 @@
 
 ## Instructions
 
-TODO: these are missing
+-Boil the pasta
+-Fry the vegetables
+-Mix
+-add tomatoes
+#ADD MORE DETAILS
